@@ -1,1 +1,3 @@
 tareas-por-hacer
+logs/*
+!logs/.gitkeep
